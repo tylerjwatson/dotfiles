@@ -1,0 +1,25 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_khtml_appearance.desktop,2 services_google-chrome.desktop,3 services_org.kde.krita.desktop,4 services_org.kde.yakuake.desktop,1 shell_nvim,1 services_fonts.desktop,1 services_konqbrowser.desktop,4 services_systemsettings.desktop,1 services_screenlocker.desktop,2 services_org.kde.konsole.desktop,2 services_kcm_kdeconnect.desktop,1 services_powerdevilprofilesconfig.desktop,10 services_kcm_kscreen.desktop,3 services_clementine.desktop,4 services_appimagekit-franz.desktop,1 services_steam.desktop,4 services_code.desktop,1 services_org.kde.kwrite.desktop,1 services_org.kde.dolphin.desktop,1 services_firewall-config.desktop,10 services_kwincompositing.desktop,2 services_fontinst.desktop,1 services_colors.desktop,1 services_gvim.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal2560]
+thickness=36
+
+[PlasmaViews][Panel 23][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 23][Horizontal2560]
+thickness=36
+
+[ScreenConnectors]
+0=eDP-1
+1=DP-1-1
+2=DP-1-2
+3=:0.0
+4=HDMI-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/00-start-here-2.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc-1.js

@@ -1,0 +1,14 @@
+[FileDialogSize]
+Height 1080=480
+Width 1920=640
+
+[General Options]
+ShowMenuBar=true
+ShowPath=false
+ShowStatusBar=true
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=640

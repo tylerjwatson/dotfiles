@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/tw/.config'
+let g:netrw_dirhist_2='/home/tw/.vim/bundle/vim-racer'
+let g:netrw_dirhist_3='/home/tw/src/minigrep'
+let g:netrw_dirhist_4='/home/tw/src/minigrep/src'
+let g:netrw_dirhist_5='/home/tw/src/bms'

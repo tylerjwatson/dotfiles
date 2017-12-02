@@ -1,0 +1,5 @@
+[General]
+history=plasmashell,nvim,gvim,lock
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_gvim.desktop,1 desktopsessions_4,1 shell_nvim
